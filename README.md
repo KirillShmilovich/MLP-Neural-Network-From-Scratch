@@ -1,4 +1,4 @@
-# Building a multilayer perceptron from scratch
+# Building a multilayer perceptron from scrath
 
 The mathematics and computation that drive neural networks are frequently seen as erudite and impenetrable. A clearly illustrated example of building from scratch a neural network for handwriting recognition is presented in `MLP.ipynb`. This tutorial provides a step-by-step overview of the mathematics and code used in many modern machine learning algorithms.
 
